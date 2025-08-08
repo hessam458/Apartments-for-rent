@@ -4,7 +4,7 @@ This project focuses on analyzing rental apartment listings and predicting apart
 
 # 🗂️ Project Structure
 
-pre> ```apartment-for-rent/
+pre > ```apartment-for-rent/
 ├── Input/
 │   └── apartments.csv
 ├── Code
@@ -13,7 +13,7 @@ pre> ```apartment-for-rent/
 ├── dashboard/
 │   └── Apartments_for_rent.pbix       # Power BI Report
 ├── README.md
-├── requirements.txt ```</pre
+├── requirements.txt ```< /pre
 
 
 # 📊 Dataset Description
