@@ -3,7 +3,7 @@
 This project focuses on analyzing rental apartment listings and predicting apartment prices using machine learning techniques. It includes data cleaning, exploratory data analysis (EDA), visualizations, and predictive modeling — all implemented in Python and presented through a Power BI dashboard.
 
 # 📊 Dataset Description
-The dataset includes various attributes of apartment listings, such as:
+## The dataset includes various attributes of apartment listings, such as:
 
 . Location (latitude, longitude)
 
@@ -14,14 +14,14 @@ The dataset includes various attributes of apartment listings, such as:
 
 . Type of listing (e.g., Studio, 1BR, 2BR)
 
-Initial data preprocessing steps included:
+## Initial data preprocessing steps included:
 
 . Converting non-standard "null" values to Python-readable NaN
 
 . Removing or filling missing values as appropriate
 
 # 🔍 Exploratory Data Analysis (Python)
-Key insights extracted through Python include:
+## Key insights extracted through Python include:
 
 . Distribution of apartment prices by geographic location
 
@@ -34,7 +34,7 @@ Key insights extracted through Python include:
 # 📈 Power BI Dashboard
 A Power BI dashboard was developed to provide interactive and visual insights from the apartment rental dataset.
 
-Key dashboard elements:
+## Key dashboard elements:
 
 . Map View: Displays geographic distribution of rental listings by price and location
 
