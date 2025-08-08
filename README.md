@@ -1,6 +1,19 @@
 # 📦 Apartment for Rent — Data Analysis & Prediction
 ## Overview
 This project focuses on analyzing rental apartment listings and predicting apartment prices using machine learning techniques. It includes data cleaning, exploratory data analysis (EDA), visualizations, and predictive modeling — all implemented in Python and presented through a Power BI dashboard.
+پ
+# 🗂️ Project Structure
+apartment-for-rent/
+├── Input/
+│   └── apartments.csv
+├── Code
+│   ├── apartment_for_rent.ipynb       # Data Cleaning & EDA
+│   └── ML_Price_Predict.ipynb         # Machine Learning Prediction
+├── dashboard/
+│   └── Apartments_for_rent.pbix       # Power BI Report
+├── README.md
+├── requirements.txt
+
 
 # 📊 Dataset Description
 ## The dataset includes various attributes of apartment listings, such as:
@@ -8,6 +21,7 @@ This project focuses on analyzing rental apartment listings and predicting apart
 . Location (latitude, longitude)
 
 . Price
+
 . Number of bedrooms and bathrooms
 
 . Area (square footage)
@@ -62,3 +76,16 @@ This dashboard enables users to visually and interactively explore patterns in t
 . Feature Selection & Preprocessing: Only relevant columns were used to build the prediction model. Categorical variables were encoded, and missing values were handled appropriately.
 
 . Modeling: Regression algorithms were used to predict apartment prices. The performance was evaluated using appropriate metrics (e.g., MAE, RMSE, R²).
+
+# 🛠️ Tools & Technologies
+. Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+
+. Jupyter Notebook
+
+. Power BI
+
+. Git & GitHub
+
+# 📌 Author
+## Hessam Abedinpour
+Data enthusiast with a focus on business analysis, data visualization, and predictive modeling.
