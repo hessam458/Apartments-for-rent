@@ -44,4 +44,21 @@ A Power BI dashboard was developed to provide interactive and visual insights fr
 
 . KPI Cards: Summarize key metrics such as average price, total listings, and most common apartment types
 
-This dashboard enables users to explore patterns in the rental market visually and interactively.
+This dashboard enables users to visually and interactively explore patterns in the rental market.
+
+# 🤖 Machine Learning — Price Prediction
+## The project includes a machine learning pipeline to predict rental prices based on various features such as:
+
+. Number of rooms and bathrooms
+
+. Square footage
+
+. Location coordinates
+
+## Key steps:
+
+. Outlier Removal: The Top 1% of high-price outliers were removed to reduce skewness and improve model performance.
+
+. Feature Selection & Preprocessing: Only relevant columns were used to build the prediction model. Categorical variables were encoded, and missing values were handled appropriately.
+
+. Modeling: Regression algorithms were used to predict apartment prices. The performance was evaluated using appropriate metrics (e.g., MAE, RMSE, R²).
